@@ -1,0 +1,20 @@
+.wrapper{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.premium-booking{
+    background-color: #D4AF37;
+    color: #fff;
+}
+
+input[type="radio"]{
+    transform: scale(1.4,1.4);
+    margin-left: 10px;
+}
+
+input[type="checkbox"]{
+    transform: scale(1.4,1.4);
+}
